@@ -15,11 +15,11 @@
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 📫 How to reach me: **nisargas0904@gmail.com**
+- 📫 How to reach me: **nisargascse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/nisarga-s-gowda" target="blank">
+  <a href="https://www.linkedin.com/in/nisarga-s-331894266/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisarga-s-gowda" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/nisarga_s" target="blank">
